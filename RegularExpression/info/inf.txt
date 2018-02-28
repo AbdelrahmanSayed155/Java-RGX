@@ -1,0 +1,3 @@
+regular is good for restrict test
+ and set specific pattern for text
+
